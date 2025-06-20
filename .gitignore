@@ -1,0 +1,11 @@
+# Project place file
+/CORVUS_AGON.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+Packagges/
+ServerPackages/
+sourcemap.json
+wally.lock
